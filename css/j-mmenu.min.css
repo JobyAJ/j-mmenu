@@ -1,0 +1,19 @@
+/*!
+ * megamenu - jQuery Plugin
+ * version: 1.0.0 (September 2022)
+ * @requires jQuery
+ *
+ * Examples at 
+ *
+ * Developed By Joby AJ 
+ *
+ *//*!
+ * megamenu - jQuery Plugin
+ * version: 1.0.0 (September 2022)
+ * @requires jQuery
+ *
+ * Examples at /
+ *
+ * Developed By Joby AJ 
+ *
+ */.before-hover{opacity:0;visibility:hidden;pointer-events:none}.after-hover{opacity:1;visibility:visible;pointer-events:auto}.transition{transition:all .3s}.j-mMenu{position:static}.j-mMenu:hover .j-mMenuWrap{opacity:1;visibility:visible;pointer-events:auto}.j-mMenuOuter{position:relative}.j-mMenuTrigger{width:100%;display:flex;align-items:center;justify-content:center}.j-mMenuWrap{width:100%;position:absolute;top:100%;left:0;background-color:#fff;opacity:0;visibility:hidden;pointer-events:none;transition:all .3s}.j-mMenuSing{width:25%;float:left;position:static;clear:both}.j-mMenuSing:hover .j-mMenuCateSub{z-index:30;opacity:1;visibility:visible;pointer-events:auto}.j-mMenuCate{width:100%;display:flex;align-items:center;justify-content:center;padding:15px;border:1px solid #e5e5e5;border-top:0;cursor:pointer}.j-mMenuCateSub{width:calc(75% + 1px);position:absolute;right:0;top:0;padding:30px;height:100%;background-color:#fff;border:1px solid #e5e5e5;border-top:0;min-height:300px;opacity:0;visibility:hidden;pointer-events:none;transition:all .3s}.j-mMenuSec{width:100%;float:left;height:100%;overflow:hidden}.j-mMenuSecBlock{width:100%;height:100%;float:left;transition:all .3s}.j-mMenuSecIn{width:25%;float:left;z-index:1;position:relative}.j-mMenuSec .j-mMenuSliderNav .j-mMenuSliderNavIn{opacity:1;visibility:visible}.j-mMenuSec .j-mMenuSliderNav .j-mMenuSliderNavIn.active{pointer-events:auto}.j-mMenuCLink{width:100%;float:left;font-size:12px;font-weight:400;line-height:1.2em;margin-bottom:15px}.j-mMenuCLink.head{font-size:14px;font-weight:500;color:#555}.j-mMenuCLinkImg{position:absolute;width:auto;right:0;top:0;height:100%;opacity:.9;max-width:30%}.j-mMenuCLinkImg img{width:100%;height:100%;object-fit:cover}.j-mMenuSliderElem{display:none}.j-mMenuSliderNext,.j-mMenuSliderPrev{position:relative}.j-mMenuSliderNext::after,.j-mMenuSliderPrev::after{position:absolute}.j-mMenuSliderPrev::after{content:"<"}.j-mMenuSliderNext::after{content:">"}.j-mMenuSliderNav{width:100%;float:left;height:100%;position:absolute;display:flex;align-items:center;justify-content:space-between;left:0;top:0;padding:5px;pointer-events:none;z-index:5}.j-mMenuSliderNavIn{width:35px;height:35px;display:flex;align-items:center;justify-content:center;pointer-events:auto;cursor:pointer;transition:all .3s;border-radius:50%;color:#fff;opacity:0;visibility:hidden;pointer-events:none}.j-mMenuImgHide .j-mMenuCLinkImg{display:none}

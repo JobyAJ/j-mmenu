@@ -1,0 +1,23 @@
+/*!
+ * megamenu - jQuery Plugin
+ * version: 1.0.0 (September 2022)
+ * @requires jQuery
+ *
+ * Examples at /
+ *
+ * Developed By Joby AJ 
+ *
+ */
+.before-hover {
+  opacity: 0;
+  visibility: hidden;
+  pointer-events: none;
+}
+.after-hover {
+  opacity: 1;
+  visibility: visible;
+  pointer-events: auto;
+}
+.transition {
+  transition: all 0.3s;
+}
