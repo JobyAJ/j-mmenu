@@ -47,6 +47,7 @@ const jmMenu = {
                     if ($(this).find('.j-mMenuSecIn').length >= 4) {
                         $(this).addClass('j-mMenuImgHide');
                     }
+                    
                     if ($(this).find('.j-mMenuSecIn').length > 4) {
 
                         var sliderClone = $('body').find('.j-mMenuSliderElem .j-mMenuSliderNav').clone();
