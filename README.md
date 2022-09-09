@@ -3,6 +3,8 @@ What is this?
 
 This is completely focused category listing megamenu for the ecommerce websites, you can simply add and loop the categories and subcategories. This megamenu helps to split the sections to column with the support of javascript. You can add the main Categories, there sublist with head, and there sub categories. This automatically find the arrangements and except categories are loop to the slider functionlities 
 
+
+
 Installation
 ------------- 
 
@@ -14,6 +16,18 @@ Simply add the css and js files, Do not forget to add the jQuery file. And no an
 
 <script src="js/j-mmenu.min.js"></script> 
 ```
+
+
+Supporting features
+------------- 
+
+- 3 level of category listing
+- cms looping method
+- auto column generate
+- caegory image adding option
+- custom slider creation for more category
+- customize the theme with css
+
 
 
 Initialize the Megamenu
