@@ -25,3 +25,5 @@ Initialize the Megamenu
 
 
 checkout the demo on codepen [j-mmenu](https://codepen.io/JobyJoDiyon/pen/MWGaGOM).
+
+checkout the live demo, if any bugs seems to codepen choose this [free hosted web page](https://joby-aj.000webhostapp.com/plugins/j-mmenu/)
